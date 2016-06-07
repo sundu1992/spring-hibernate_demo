@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sundu.SpringJpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.247 sec - in com.sundu.SpringJpaApplicationTests
